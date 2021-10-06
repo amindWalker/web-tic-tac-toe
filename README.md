@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hooked Tic-Tac-Toe
+  # Hooked Tic-Tac-Toe #️⃣
   
   ### A Tic-Tac-Toe game using React Hooks
 
