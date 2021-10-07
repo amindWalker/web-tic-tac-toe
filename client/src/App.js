@@ -48,7 +48,7 @@ function App() {
     if (boardSquares.filter((square) => square !== null).length % 2 === 0) {
       axios.post('http://localhost:3001/scores', scores)
     }
-  }, [scores])
+  }, [scores, boardSquares])
 
   useEffect(() => {
     const isAITurn =
